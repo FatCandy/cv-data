@@ -1,0 +1,35 @@
+{
+  "experience": [
+    {
+      "company_name": "Naviga Global AB",
+      "start_date": "08/2022",
+      "end_date": null,
+      "on_going": true,
+      "title": "Senior Software Developer",
+      "location": "Kalmar, Sweden",
+      "description": ""
+    },
+    {
+      "company_name": "Adobe Systems Europe",
+      "start_date": "08/2022",
+      "end_date": "08/2018",
+      "on_going": false,
+      "title": "Senior Software Developer",
+      "location": "Kalmar, Sweden",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "qualification": "BSc. Computer Science",
+      "institution": "University of Stirling",
+      "location": "Stirling, Scotland",
+      "graduation_year": "2002",
+      "on_going": false
+    }
+  ],
+  "languages": [
+    "English",
+    "Swedish"
+  ]
+}
