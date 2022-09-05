@@ -5,17 +5,17 @@
       "start_date": "08/2022",
       "end_date": null,
       "on_going": true,
-      "title": "Senior Software Developer",
+      "title": "Android Developer",
       "location": "Kalmar, Sweden",
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/experience/job1.md"
     },
     {
-      "company_name": "Adobe Systems Europe",
+      "company_name": "Adobe Systems Europe Inc.",
       "start_date": "08/2022",
       "end_date": "08/2018",
       "on_going": false,
-      "title": "Senior Software Developer",
-      "location": "Kalmar, Sweden",
+      "title": "Computer Scientist",
+      "location": "Edinburgh, Scotland",
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/experience/job2.md"
     }
   ],
