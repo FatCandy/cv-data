@@ -1,4 +1,9 @@
 {
+  "personal_details": {
+    "name": "Andrew Wallace",
+    "mobile": "+ 46 (0) 768564827",
+    "linkedin": "https://www.linkedin.com/in/fatcandy/",
+  },
   "experience": [
     {
       "company_name": "Naviga Global AB",
@@ -52,6 +57,24 @@
       "title": "Technical Support Engineer",
       "location": "Edinburgh, Scotland",
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/experience/job6.md"
+    },
+    {
+      "company_name": "Proofreader & co-owner",
+      "start_date": "02/01/2005",
+      "end_date": "08/01/2007",
+      "on_going": false,
+      "title": "Proofreader & Co-owner",
+      "location": "Kalmar, Sweden",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/experience/job7.md"
+    },
+    {
+      "company_name": "Industrial Development for a Sustainable Society",
+      "start_date": "01/01/2004",
+      "end_date": "02/01/2005",
+      "on_going": false,
+      "title": "Administrator",
+      "location": "Kalmar, Sweden",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/experience/job8.md"
     }
   ],
   "education": [
@@ -59,7 +82,8 @@
       "qualification": "BSc. Computer Science",
       "institution": "University of Stirling",
       "location": "Stirling, Scotland",
-      "graduation_year": "2002",
+      "start_date": "1999",
+      "end_date": "2003",
       "on_going": false
     }
   ],
