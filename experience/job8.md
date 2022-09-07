@@ -1,1 +1,2 @@
-Provided European-wide support for Adobe Flash Media Server.
+* Created marketing material such as posters and conference material.  Responsible for publishing the annual report and business plan of the research project.
+* Organised conferences and provided assistance with general problems that both employees and PhD students experienced. 
