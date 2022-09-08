@@ -1,0 +1,1 @@
+* Tillhandahöll support för Adobe Flash Media Server i Europa.

@@ -10,36 +10,36 @@
       "company_name": "Naviga Global AB",
       "start_date": "08/01/2018",
       "end_date": null,
-      "title": "Android Developer",
-      "location": "Kalmar, Sweden",
-      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/en_experience/job1.md"
+      "title": "Android Utvecklare",
+      "location": "Kalmar, Sverige",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job1.md"
     },
     {
       "company_name": "Adobe Systems Europe Inc.",
       "start_date": "01/01/2014",
       "end_date": "05/01/2018",
       "on_going": false,
-      "title": "Computer Scientist",
-      "location": "Edinburgh, Scotland",
-      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/en_experience/job2.md"
+      "title": "Systemutvecklare/datavetare",
+      "location": "Edinburgh, Skottland",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job2.md"
     },
     {
       "company_name": "Adobe Systems Europe Inc.",
       "start_date": "02/01/2013",
       "end_date": "01/01/2014",
       "on_going": false,
-      "title": "Software Engineer",
-      "location": "Edinburgh, Scotland",
-      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/en_experience/job3.md"
+      "title": "Mjukvaruingenjör",
+      "location": "Edinburgh, Skottland",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job3.md"
     },
     {
       "company_name": "Adobe Systems Europe Inc.",
       "start_date": "08/01/2011",
       "end_date": "02/01/2013",
       "on_going": false,
-      "title": "Application Engineer",
-      "location": "Edinburgh, Scotland",
-      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/en_experience/job4.md"
+      "title": "Applikationsingenjör",
+      "location": "Edinburgh, Skottland",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job4.md"
     },
     {
       "company_name": "Adobe Systems Europe Inc.",
@@ -47,42 +47,42 @@
       "end_date": "08/01/2011",
       "on_going": false,
       "title": "Technical Account Manager",
-      "location": "Edinburgh, Scotland",
-      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/en_experience/job5.md"
+      "location": "Edinburgh, Skottland",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job5.md"
     },
     {
       "company_name": "Adobe Systems Europe Inc.",
       "start_date": "08/01/2007",
       "end_date": "08/01/2008",
       "on_going": false,
-      "title": "Technical Support Engineer",
-      "location": "Edinburgh, Scotland",
-      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/en_experience/job6.md"
+      "title": "Teknisk Support",
+      "location": "Edinburgh, Skottland",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job6.md"
     },
     {
-      "company_name": "Proofreader & co-owner",
+      "company_name": "Korrekturläsare & delägare",
       "start_date": "02/01/2005",
       "end_date": "08/01/2007",
       "on_going": false,
       "title": "Proofreader & Co-owner",
-      "location": "Kalmar, Sweden",
-      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/en_experience/job7.md"
+      "location": "Kalmar, Sverige",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job7.md"
     },
     {
       "company_name": "Industrial Development for a Sustainable Society",
       "start_date": "01/01/2004",
       "end_date": "02/01/2005",
       "on_going": false,
-      "title": "Administrator",
-      "location": "Kalmar, Sweden",
-      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/en_experience/job8.md"
+      "title": "Informationsansvarig",
+      "location": "Kalmar, Sverige",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job8.md"
     }
   ],
   "education": [
     {
       "qualification": "BSc. Computer Science",
       "institution": "University of Stirling",
-      "location": "Stirling, Scotland",
+      "location": "Stirling, Skottland",
       "start_date": "1999",
       "end_date": "2003",
       "on_going": false

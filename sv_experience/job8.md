@@ -1,0 +1,2 @@
+* Skapade marknadsföringsmaterial som posters och konferensmaterial, ansvarade för årsrapport och affärsplan osv.
+* Organiserade möten och hjälpte till med generella problem som anställda och studenter hade.
