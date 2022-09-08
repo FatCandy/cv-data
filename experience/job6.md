@@ -1,1 +1,1 @@
-Provided European-wide support for Adobe Flash Media Server.
+* Provided European-wide support for Adobe Flash Media Server.
