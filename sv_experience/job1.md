@@ -1,6 +1,6 @@
 **_Project_**: Naviga Mobile News App Platform: 
-a feature rich native app publication system which generates customised and branded news apps for media customers
-* Developed core Android platform features such as:
+*a feature rich native app publication system which generates customised and branded news apps for media customers*
+* Developed core Android platform features using Kotlin & Java such as:
 	* app-review, expandable lists, sharing, optimised image loading etc
 * Ported existing modules to JetPack Compose
 * Worked closely with UX team to realise designs
