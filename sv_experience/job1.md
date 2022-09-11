@@ -1,17 +1,14 @@
-**_Project_**: Naviga Mobile News App Platform: a feature rich native app publication system which generates customised and branded news apps for media customers
+**_Project_**: Naviga Mobile News App Platform: 
+a feature rich native app publication system which generates customised and branded news apps for media customers
+* Developed core Android platform features such as:
+	* app-review, expandable lists, sharing, optimised image loading etc
+* Ported existing modules to JetPack Compose
+* Worked closely with UX team to realise designs
+* Good knowledge and experience with GoogleCloud such as:
+	* CloudFunctions, CloudRun, CloudBuild, Firestore, Firestore Hosting
+* Research & development in other mobile/web technologies such as:
+	* Kotlin Multi Mobile/Platform, Flutter, Svelte/SvelteKit
 
-* Android platform feature development:
-	* Core platform feature development using Kotlin, Compose, Java, Gradle
-	* Worked closely with UX team to realise designs
-	* Good knowledge and experience with GoogleCloud such as:
-		* CloudFunctions, CloudRun, CloudBuild, Firestore, Firestore Hosting
-	* Ported existing modules to JetPack Compose
-	* Research & development in other mobile/web technologies such as:
-		* Kotlin Multi Mobile/Platform
-		* Flutter
-		* Turbo/SvelteKit
-
-* Android customer feature development:
-	* Developed customer specific features/modules such as PrayerTimes for Khaleej Times
-	* Integrated 3rd-party customer advertising & statistics providers
-	* 
+* Developed customer feature development:
+	* Developed customer specific features/modules
+	* Integrated 3rd-party libraries (authentication/advertising/video/statistics) in platform to support customer requirements
