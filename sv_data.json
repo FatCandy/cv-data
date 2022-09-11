@@ -60,7 +60,7 @@
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job6.md"
     },
     {
-      "company_name": "Korrekturläsare & delägare",
+      "company_name": "Adhibit HB",
       "start_date": "02/01/2005",
       "end_date": "08/01/2007",
       "on_going": false,
@@ -83,7 +83,7 @@
       "qualification": "MSc. Electrical Engineering",
       "institution": "Högskolan i Kalmar",
       "location": "Kalmar, Sverige",
-      "start_date": "2003",
+      "start_date": "08/01/2003",
       "end_date": null,
       "on_going": false,
       "incomplete": true

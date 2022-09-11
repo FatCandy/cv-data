@@ -60,7 +60,7 @@
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/en_experience/job6.md"
     },
     {
-      "company_name": "Proofreader & co-owner",
+      "company_name": "Adhibit HB",
       "start_date": "02/01/2005",
       "end_date": "08/01/2007",
       "on_going": false,
@@ -83,7 +83,7 @@
       "qualification": "MSc. Electrical Engineering",
       "institution": "Högskolan i Kalmar",
       "location": "Kalmar, Sweden",
-      "start_date": "2003",
+      "start_date": "08/012003",
       "end_date": null,
       "on_going": false,
       "incomplete": true
@@ -92,8 +92,8 @@
       "qualification": "BSc. Computer Science",
       "institution": "University of Stirling",
       "location": "Stirling, Scotland",
-      "start_date": "2000",
-      "end_date": "2003",
+      "start_date": "09/01/2000",
+      "end_date": "09/01/2003",
       "on_going": false,
       "incomplete": false
     }
