@@ -1,19 +1,15 @@
-**_Project_**: Naviga Mobile News App Platform: 
-*a feature rich native app publication system which generates customised and branded news apps for media customers*
-* Developed core Android platform features such as:
-	* app-review, expandable lists, sharing, optimised image loading, html-embed views, native table etc
-* Technologies used on a daily basis:
-	* Kotlin, Java, Gradle ADD MORE
-* Examples of libraries used on regular basis:
-	* Kotlin Standard Library & Coroutines, RxJava, ADD MORE etc 
-* Good knowledge of app release management & monitoring
-* Ported existing modules to JetPack Compose
-* Worked closely with both QA & UX teams to realise designs and maintain stability of releases.
-* Good knowledge and experience with GoogleCloud such as:
-	* CloudFunctions, CloudRun, CloudBuild, Firestore, Firestore Hosting
-* Research & development in other mobile/web technologies such as:
-	* Kotlin Multi Mobile/Platform, Flutter, Svelte/SvelteKit, Angular
+**_Projekt_**: Naviga Mobile News App Platform: 
+*ett funktionsrikt nativt app-publiseringssystem som genererar skräddarsydda och tematiserade nyhetsappar för mediahus*
+* Utvecklat Android plattforms kärn funktioner som:
+	* app-review, expandable lists, delning, optmiserad bild hantering, html-embed vyer, nativa tabell vyer osv.
+* Bra kunskap om app release management & monitoring.
+* Skrev om delar av plattformen med JetPack Compose.
+* Arbetade nära QA & UX teamen för att implementera feature/kund designs och bibehålla stabilitet av releases.
+* Bra kunskap och erfarenhet med GoogleCloud som:
+	* CloudFunctions, CloudRun, CloudBuild, Firestore, FireHosting
+* Research & development an nästa generations plattformar med andra mobil/webb teknologier som:
+	* Kotlin Multi Platform, Flutter, Svelte/SvelteKit, Angular
 
-* Customer-specific feature development:
-	* Integrated 3rd-party libraries into the core platform to support customer requirements such as authentication, advertising, video, statistics etc.
-	* Close integration with Project Management to successfully deliver customer apps on time & to customer spec.
+* Utveckling av kund-specifika funktioner:
+	* Integrerade stöd för tredje parts bibliotek i plattformen för att uppfylla kunders krav till exempel autentisering, annonser, video, statistik osv.
+	* Nära samarbete med Projektledare för att leverera kund appar.
