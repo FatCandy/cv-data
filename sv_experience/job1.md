@@ -7,7 +7,7 @@
 * Arbetade nära QA & UX teamen för att implementera feature/kund designs och bibehålla stabilitet av releases.
 * Bra kunskap och erfarenhet med GoogleCloud som:
 	* CloudFunctions, CloudRun, CloudBuild, Firestore, FireHosting
-* Research & development an nästa generations plattformar med andra mobil/webb teknologier som:
+* Research & development av nästa generations plattformar med andra mobil/webb teknologier som:
 	* Kotlin Multi Platform, Flutter, Svelte/SvelteKit, Angular
 
 * Utveckling av kund-specifika funktioner:
