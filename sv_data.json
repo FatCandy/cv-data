@@ -7,7 +7,7 @@
   },
   "experience": [
     {
-      "company_name": "Naviga Global AB",
+      "organisation": "Naviga Global AB",
       "start_date": "08/01/2018",
       "end_date": null,
       "title": "Android Utvecklare",
@@ -15,7 +15,7 @@
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job1.md"
     },
     {
-      "company_name": "Adobe Systems Europe Inc.",
+      "organisation": "Adobe Systems Europe Inc.",
       "start_date": "01/01/2014",
       "end_date": "05/01/2018",
       "on_going": false,
@@ -24,7 +24,7 @@
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job2.md"
     },
     {
-      "company_name": "Adobe Systems Europe Inc.",
+      "organisation": "Adobe Systems Europe Inc.",
       "start_date": "02/01/2013",
       "end_date": "01/01/2014",
       "on_going": false,
@@ -33,7 +33,7 @@
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job3.md"
     },
     {
-      "company_name": "Adobe Systems Europe Inc.",
+      "organisation": "Adobe Systems Europe Inc.",
       "start_date": "08/01/2011",
       "end_date": "02/01/2013",
       "on_going": false,
@@ -42,7 +42,7 @@
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job4.md"
     },
     {
-      "company_name": "Adobe Systems Europe Inc.",
+      "organisation": "Adobe Systems Europe Inc.",
       "start_date": "08/01/2008",
       "end_date": "08/01/2011",
       "on_going": false,
@@ -51,7 +51,7 @@
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job5.md"
     },
     {
-      "company_name": "Adobe Systems Europe Inc.",
+      "organisation": "Adobe Systems Europe Inc.",
       "start_date": "08/01/2007",
       "end_date": "08/01/2008",
       "on_going": false,
@@ -60,7 +60,7 @@
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job6.md"
     },
     {
-      "company_name": "Adhibit HB",
+      "organisation": "Adhibit HB",
       "start_date": "02/01/2005",
       "end_date": "08/01/2007",
       "on_going": false,
@@ -69,7 +69,7 @@
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job7.md"
     },
     {
-      "company_name": "Industrial Development for a Sustainable Society",
+      "organisation": "Industrial Development for a Sustainable Society",
       "start_date": "01/01/2004",
       "end_date": "02/01/2005",
       "on_going": false,
