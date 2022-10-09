@@ -81,7 +81,7 @@
   "education": [
     {
       "qualification": "MSc. Electrical Engineering",
-      "institution": "Högskolan i Kalmar",
+      "organisation": "Högskolan i Kalmar",
       "location": "Kalmar, Sverige",
       "start_date": "08/01/2003",
       "end_date": null,
@@ -90,7 +90,7 @@
     },
     {
       "qualification": "BSc. Computer Science",
-      "institution": "University of Stirling",
+      "organisation": "University of Stirling",
       "location": "Stirling, Skottland",
       "start_date": "09/01/2000",
       "end_date": "09/01/2003",
