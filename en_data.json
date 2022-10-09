@@ -80,7 +80,7 @@
   ],
   "education": [
     {
-      "qualification": "MSc. Electrical Engineering",
+      "title": "MSc. Electrical Engineering",
       "organisation": "Högskolan i Kalmar",
       "location": "Kalmar, Sweden",
       "start_date": "08/01/2003",
@@ -89,7 +89,7 @@
       "incomplete": true
     },
     {
-      "qualification": "BSc. Computer Science",
+      "title": "BSc. Computer Science",
       "organisation": "University of Stirling",
       "location": "Stirling, Scotland",
       "start_date": "09/01/2000",
