@@ -1,12 +1,12 @@
 **_Project_**: Region Stockholm:
 *Android app for use in public kiosks*
 * Developed native Android app using JetPack Compose
-* Integrated app with MobileIron to enable remote enterprise management of app
+* Integrated app with MobileIron to enable remote enterprise management
 
 
 **_Project_**: Göteborg Stad: 
 *Web AR experience to celebrate the Göteborg's 400-year anniversary*
-* Developed web app using 8thwall and A-Frame
+* Developed web app using 8thWall and A-Frame
 
 
 **_Project_**: OnTag Scorekort: 
