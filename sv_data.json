@@ -7,9 +7,17 @@
   },
   "experience": [
     {
+      "organisation": "Tietoevry Sweden AB",
+      "start_date": "09/01/2023",
+      "end_date": null,
+      "title": "Mobil Utvecklare",
+      "location": "Kalmar, Sweden",
+      "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/latest.md"
+    },
+    {
       "organisation": "Naviga Global AB",
       "start_date": "08/01/2018",
-      "end_date": null,
+      "end_date": "31/12/2022",
       "title": "Android Utvecklare",
       "location": "Kalmar, Sverige",
       "description": "https://raw.githubusercontent.com/FatCandy/cv-data/main/sv_experience/job1.md"
